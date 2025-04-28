@@ -1,1 +1,1 @@
-# Titanic-classification-Will-i-live-
+# Titanic-classification-Will-i-survive-
